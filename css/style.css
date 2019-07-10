@@ -1,0 +1,81 @@
+
+.slideshow{
+
+position:absolute;
+left:30%;
+width:400px;
+
+}
+
+.main_image{
+/*transition:2s;*/
+
+position:absolute;
+opacity:0.3;
+width:400px;
+left:20%;
+
+
+
+}
+.main_image_tr{
+position:absolute;
+opacity:1;
+transition:1s;
+width:400px;
+left:25%;
+
+
+}
+
+
+.main_slide{
+ 
+width:800px;
+padding-left:100px;
+padding-right: 100px;
+
+}
+
+
+.miniatures_gallery{
+
+position: absolute;
+top: 550px;
+left: 500px;
+padding-left: 110px;
+clear: both;
+width: 400px;
+text-align: center;
+
+
+}
+
+.miniature{
+
+  position:relative;
+  float:left;
+  width:30%;
+  margin-right:13px;
+
+}
+
+.navigation{
+
+float:none;
+position: absolute;
+top: 700px;
+left: 770px;
+
+
+}
+
+.thumbnail{
+
+
+width:100px;
+
+
+
+
+}
